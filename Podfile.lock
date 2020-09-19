@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.2.2)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SQLite.swift
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SQLite.swift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 496487c5fbbf0a21022d201066320d4149dd2d2b
+
+COCOAPODS: 1.9.3
